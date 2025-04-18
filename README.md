@@ -2,6 +2,6 @@
 
 To run this code, you have to install the requirements file that named requirements.txt.
 
-You can do it:
+You can install requirements using this in CMD:
 
-pip install requirements.txt 
+pip install -r requirements.txt
