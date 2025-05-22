@@ -1,1 +1,2 @@
-pip install requests, lxml, csv
+requests
+lxml
